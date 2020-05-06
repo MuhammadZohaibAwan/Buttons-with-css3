@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.cta-button{
+    background-color: #BB301E;
+    margin: 30px 0px 0px 30px;
+    padding: 20px 45px;
+    color: white;
+
+}
+
+
+.Yellow{
+    background-color:#E8B723;
+    border: 3px solid blue;
+    margin: 30px 0px 0px 30px;
+    padding: 25px 45px;
+    color: white;
+    position: relative;
+    bottom: 4px;
+
+
+}
+
+.semiCircle{
+
+    
+   border-color: white;
+    border-radius: 25px;
+    border-style: none;
+    margin: 30px 0px 0px 30px;
+    padding: 20px 55px;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    bottom: 4px;
+    background: linear-gradient(to right, rgb(68,188,188,0.7), rgb(135,182,117,0.6));
+
+}
+
+
+.bgLess{
+
+    background-color:white;
+    border-radius: 10px;
+    border: 3px solid #5147bc;
+    margin: 30px 0px 0px 30px;
+    padding: 25px 45px;
+    color: #5147bc;
+    position: relative;
+    bottom: 4px;
+}
+
+
+.embossButton{
+    
+    background-color: #F09422;
+    margin: 30px 0px 0px 30px;
+    padding: 25px 65px;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    
+    background: linear-gradient(to bottom, #E19E1E, rgb(243, 166, 23));
+    
+
+}
+
+.facebook{
+    background-color: white;
+    color: #009CF7;
+    border-radius: 70px;
+    padding: 15px;
+    border-style: none;
+    border: 2px solid  #009CF7;
+    margin: 30px;
+
+}
+
+
+.facebook:hover{
+
+    background-color: #009CF7;
+    color: white;
+    
+
+}
+
+
+.cta-button:hover{
+    background-color: teal;
+    color: black;
+    cursor: pointer;
+}
+
+.Yellow:hover{
+    background-color: chocolate;
+    color: black;
+    cursor: pointer;
+}
+
+
+.bgLess:hover{
+    background-color:#5147bc ;
+    color: white;
+    cursor: pointer;
+}
+
+
+.embossButton:hover{
+    background-color: #5147bc;
+    color: black;
+    cursor: pointer;
+}
